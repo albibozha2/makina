@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- sfondi -->
+    <path android:fillColor="#0A0A0A" android:pathData="M8,0h32a8,8 0 0,1 8,8v32a8,8 0 0,1 -8,8h-32a8,8 0 0,1 -8,-8v-32a8,8 0 0,1 8,-8z" />
+    <!-- kllapat e verdha -->
+    <path android:fillColor="#F5C518" android:pathData="M7,7h9v2.5h-6.5v6.5h-2.5z" />
+    <path android:fillColor="#F5C518" android:pathData="M41,7h-9v2.5h6.5v6.5h2.5z" />
+    <path android:fillColor="#F5C518" android:pathData="M7,41h9v-2.5h-6.5v-6.5h-2.5z" />
+    <path android:fillColor="#F5C518" android:pathData="M41,41h-9v-2.5h6.5v-6.5h2.5z" />
+    <!-- unaza -->
+    <path android:strokeColor="#F5C518" android:strokeWidth="2.2"
+        android:pathData="M24,13a11,11 0 1,1 -0.01,0" />
+    <!-- berthama -->
+    <path android:fillColor="#F5C518" android:pathData="M24,19.5a4.5,4.5 0 1,1 -0.01,0z" />
+</vector>
